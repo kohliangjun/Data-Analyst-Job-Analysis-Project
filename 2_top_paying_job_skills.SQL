@@ -45,6 +45,7 @@ ORDER BY salary_year_avg
 /*
 
 Summary breakdown of the most demanded skills for data analysts in 2023, based on job postings:
+
 > SQL is leading with a bold count of 8.
 > Python follows closely with a bold count of 7.
 > Tableau is also highly sought after, with a bold count of 6.
