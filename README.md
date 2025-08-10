@@ -14,7 +14,7 @@ salaries?
 5. What are the most optimal skills to learn?
 
 ### 📊 Database Tables
-![Tables](image.png)
+![Relational Tables](Images/image.png)
 
 # Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
