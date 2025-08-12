@@ -148,6 +148,10 @@ LIMIT 5
 | 46554     | tableau  |
 | 39468     | power bi |
 
+<u>Visualisation:<u>
+
+![skill_count_visualisation](image.png)
+
 ### 4. Which skills are associated with higher salaries?
 <u>Code:<u>
 
